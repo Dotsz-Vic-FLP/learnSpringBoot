@@ -1,3 +1,5 @@
+Learning-In-Progress
+
 I had a pre-interview assignment which involves Spring, which at the time of the request, I know nothing about Spring and didn't have a lot of free time at that moment to learn it.
 
 I'm going to be doing that assignment on this repo and document as I learn. 
@@ -37,7 +39,8 @@ I'm going to be doing that assignment on this repo and document as I learn.
 **May 22, 2024**
 
 Managed to load locally using SpringBoot
-What I've learned so far:
 
-The structured approach that Spring offers. 
-Controller, model, service classes alongside the repository interface. 
+![image](https://github.com/Dotsz-Vic-FLP/learnSpringBoot/assets/144490375/7a8dc89c-ecf4-4a42-b3c2-8321b33e89a9)
+
+
+

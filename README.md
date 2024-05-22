@@ -7,7 +7,9 @@ I'm going to be doing that assignment on this repo and document as I learn.
  | ID | First_Name | Last_Name | Years_of_Service | 
  |--|--|--|--| 
  | 1 | John | Doe|	20|
- |2|Debbie|Williams|15| |3|Joe|Jones|9| |4|Helen|Chan|5|
+ |2|Debbie|Williams|15| 
+ |3|Joe|Jones|9| 
+ |4|Helen|Chan|5|
  |5|John|Smith|12|
 > 
 > Above is a database table containing employees. Please write code to

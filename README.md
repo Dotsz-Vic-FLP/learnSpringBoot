@@ -43,4 +43,6 @@ Managed to load locally using SpringBoot
 ![image](https://github.com/Dotsz-Vic-FLP/learnSpringBoot/assets/144490375/7a8dc89c-ecf4-4a42-b3c2-8321b33e89a9)
 
 
+**May 23, 2024**
+Changed H2 db to MySQL db
 

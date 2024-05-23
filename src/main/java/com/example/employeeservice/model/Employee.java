@@ -17,7 +17,7 @@ public class Employee {
     private int yearsOfService;
 
     // Constructors
-    public Employee (){}
+    public Employee() {}
     public Employee(Integer id, String firstName, String lastName, int yearsOfService) {
         this.id = id;
         this.firstName = firstName;

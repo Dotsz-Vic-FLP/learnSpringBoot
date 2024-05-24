@@ -44,5 +44,11 @@ Managed to load locally using SpringBoot
 
 
 **May 23, 2024**
+
 Changed H2 db to MySQL db
 
+**May 24, 2024**
+
+Learned that I know nothing about Angular.
+Will now sidetrack to learning Angular. 
+Rabbithole here we go!

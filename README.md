@@ -52,3 +52,7 @@ Changed H2 db to MySQL db
 Learned that I know nothing about Angular.
 Will now sidetrack to learning Angular. 
 Rabbithole here we go!
+
+**June 2, 2024**
+
+Started learning Angular at 2AM, https://github.com/Dotsz-Vic-FLP/TestAngular

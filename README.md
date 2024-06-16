@@ -56,3 +56,8 @@ Rabbithole here we go!
 **June 2, 2024**
 
 Started learning Angular at 2AM, https://github.com/Dotsz-Vic-FLP/TestAngular
+
+**June 16, 2024**
+
+Did a pivot on the angular tutorial into consuming the SpringBoot API, and it worked!
+![img.png](img.png)

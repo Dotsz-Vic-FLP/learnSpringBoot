@@ -1,6 +1,7 @@
-package com.example.employeeservice.repository;
+package com.victorfelipejr.example.learnspringandcrud.repository;
 
-import com.example.employeeservice.model.Employee;
+
+import com.victorfelipejr.example.learnspringandcrud.model.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

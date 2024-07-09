@@ -1,5 +1,4 @@
-package com.example.employeeservice.model;
-
+package com.victorfelipejr.example.learnspringandcrud.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -8,25 +7,25 @@ import jakarta.persistence.Id;
 
 @Entity
 public class Employee {
-
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Integer id;
+    private Long id;
     private String firstName;
     private String lastName;
     private int yearsOfService;
 
-    // Constructors
-    public Employee() {}
-    public Employee(Integer id, String firstName, String lastName, int yearsOfService) {
-        this.id = id;
+    // Default constructor
+    public Employee() {
+    }
+    // Constructor with parameters
+    public Employee(String firstName, String lastName, int yearsOfService){
         this.firstName = firstName;
         this.lastName = lastName;
         this.yearsOfService = yearsOfService;
     }
 
     // Getters
-    public Integer getId() {
+    public Long getId() {
         return id;
     }
     public String getFirstName() {
@@ -40,21 +39,17 @@ public class Employee {
     }
 
     // Setters
-    public void setID(Integer id){
+    public void setId(Long id) {
         this.id = id;
     }
-
-    public void setFirstName(String firstName){
+    public void setFirstName(String firstName) {
         this.firstName = firstName;
     }
-
-    public void setLastName(String lastName){
+    public void setLastName(String lastName) {
         this.lastName = lastName;
     }
-
-    public void setYearsOfService(int yearsOfService){
+    public void setYearsOfService(int yearsOfService) {
         this.yearsOfService = yearsOfService;
     }
-
 
 }

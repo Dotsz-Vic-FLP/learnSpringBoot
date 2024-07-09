@@ -1,10 +1,10 @@
-package com.example.employeeservice;
+package com.victorfelipejr.example.learnspringandcrud;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EmployeeServiceApplicationTests {
+class LearnspringandcrudApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,13 +1,13 @@
-package com.example.employeeservice;
+package com.victorfelipejr.example.learnspringandcrud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EmployeeServiceApplication {
+public class LearnspringandcrudApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EmployeeServiceApplication.class, args);
+		SpringApplication.run(LearnspringandcrudApplication.class, args);
 	}
 
 }

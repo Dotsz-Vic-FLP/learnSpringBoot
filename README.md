@@ -61,3 +61,10 @@ Started learning Angular at 2AM, https://github.com/Dotsz-Vic-FLP/TestAngular
 
 Did a pivot on the angular tutorial into consuming the SpringBoot API, and it worked!
 ![img.png](img.png)
+
+**July 8, 2024**
+Refactor codebase for both the SpringBoot and Angular projects.
+REST API implements READ. 
+
+To do: 
+- Implement CREATE, UPDATE, DELETE
